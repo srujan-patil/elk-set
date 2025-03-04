@@ -165,8 +165,3 @@ sudo journalctl -u filebeat --no-pager | tail -n 20
 ## Conclusion
 This guide provides a complete ELK setup for centralized logging and visualization. You can further enhance it by adding security features, scaling Elasticsearch, and integrating additional log sources.
 
----
-
-## Author
-Maintained by **[Your Name]**  
-📧 Contact: your-email@example.com
